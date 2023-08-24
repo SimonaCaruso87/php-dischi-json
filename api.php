@@ -11,27 +11,27 @@ $string = file_get_contents('./database/api.json');
 
 //3°mettere una condizione per farci restituire i dati in pagina
 //se nome artista è settato filtro altrimenti me li restituisce tutti 
-if (isset($_GET['canzone'])){
+if (isset($_GET['id_song'])){
      //Filtro i dati , non posso filtrare in un array associativo quindi lo trasformo in stringa
-     $apis = json_decode($string, true);
+     $dataArrayApi = json_decode($string, true);
      //creiamo un array vuoto
-     $responseData = []; 
+     $responseSingleSong = []; 
 
      //4° e per ogni api 
-     foreach($apis as $key => $api){
-        if($key['canzone'] == $S_GET['canzone']) {
-            //pushami dentro responseData (con []) api
-            $responseData[] = $api;
+     foreach($dataArrayApi as $key => $singleSong){
+        if($key == intval ($S_GET['id_song'])) {
+            //pushami dentro $responseSingleSong (con []) singleSong
+            $responseSingleSong[] = $singleSong;
         }
      }
      //5° per far funzionare l'api devo restituire la versione codificata di responseData.json
-     header('Content-Type : application/json');
+     header('Content-Type:application/json');
      //6° dopo averlo trasformato lo restituiamo
-     echo json_encode($responseData);
+     echo json_encode($responseSingleSong);
 }
 else{
     //2° cosa da fare : restituisco il contenuto del file, setto l'header e lo restituisco
-    header('Content-Type : application/json');
+    header('Content-Type:application/json');
 
     echo $string;
 }

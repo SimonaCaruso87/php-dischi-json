@@ -1,32 +1,39 @@
 [
     {
+        "id_song" : "01" ,
         "nome_artista":"Colapesce",
         "canzone":"Restiamo a casa",
-        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg",
-        "minuti":"1.05"
+        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg"
     },
     {
+        "id_song" : "02" ,
         "nome_artista":"Colapesce",
         "canzone":"Restiamo a casa",
-        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg",
-        "minuti":"1.05"
+        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg"
     },
     {
+        "id_song" : "03" ,
         "nome_artista":"Colapesce",
         "canzone":"Restiamo a casa",
-        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg",
-        "minuti":"1.05"
+        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg"
     },
     {
+        "id_song" : "04" ,
         "nome_artista":"Colapesce",
         "canzone":"Restiamo a casa",
-        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg",
-        "minuti":"1.05"
+        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg"
     },
     {
+        "id_song" : "05" ,
         "nome_artista":"Colapesce",
         "canzone":"Restiamo a casa",
-        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg",
-        "minuti":"1.05"
+        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg"
+    },
+    {
+        "id_song" : "06" ,
+        "nome_artista":"Colapesce",
+        "canzone":"Restiamo a casa",
+        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg"
     }
+   
 ]
