@@ -7,33 +7,69 @@
     },
     {
         "id_song" : "02" ,
-        "nome_artista":"Colapesce",
-        "canzone":"Restiamo a casa",
-        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg"
+        "nome_artista":"The Strokes",
+        "canzone":"Selfless",
+        "img":"https://i1.sndcdn.com/artworks-000769489519-6z1ofx-t500x500.jpg"
     },
     {
         "id_song" : "03" ,
-        "nome_artista":"Colapesce",
-        "canzone":"Restiamo a casa",
-        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg"
+        "nome_artista":"Fulminacci",
+        "canzone":"Tutto inutile",
+        "img":"https://i0.wp.com/endofacentury.it/wp-content/uploads/2023/01/FULMINACCI-TUTTO-INUTILE-COVER-BENDO.jpg?fit=1024%2C1024&ssl=1"
     },
     {
         "id_song" : "04" ,
-        "nome_artista":"Colapesce",
-        "canzone":"Restiamo a casa",
-        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg"
+        "nome_artista":"Calcutta",
+        "canzone":"Cosa mi manchi a fare",
+        "img":"https://i1.sndcdn.com/artworks-000161618426-i46hm1-t500x500.jpg"
     },
     {
         "id_song" : "05" ,
-        "nome_artista":"Colapesce",
-        "canzone":"Restiamo a casa",
-        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg"
+        "nome_artista":"Brunori Sas",
+        "canzone":"Kurt Cobain",
+        "img":"https://www.radiophonica.com/sites/default/files/touchpro/immagini-press/1470261_10151736570256930_620674000_n.jpg"
     },
     {
         "id_song" : "06" ,
-        "nome_artista":"Colapesce",
-        "canzone":"Restiamo a casa",
-        "img":"https:\/\/images.genius.com\/d2c41736bebbf132befd28a17136bca9.1000x1000x1.jpg"
+        "nome_artista":"Zeta Reticoli",
+        "canzone":"Meganoidi",
+        "img":"https://lastfm.freetls.fastly.net/i/u/500x500/bce5a71f654449c287d756f4b47d9752"
+    },
+    {
+        "id_song" : "07" ,
+        "nome_artista":"Heaven",
+        "canzone":"Niali Horan",
+        "img":"https://kisskiss.it/wp-content/uploads/2023/02/niallhoran_heavensingle_digitalcover_border_f_rgb-scaled.jpg"
+    },
+    {
+        "id_song" : "08" ,
+        "nome_artista":"Non lo dire a nessuno",
+        "canzone":"Gazzelle",
+        "img":"https://media.gqitalia.it/photos/637905b64ee0d68879ca031a/1:1/w_1023,h_1023,c_limit/Gazzelle__ph.%20Leonardo%20Mirabilia%20e%20Nicole%20Verzaro%20(3)%20b.jpg"
+    },
+    {
+        "id_song" : "09" ,
+        "nome_artista":"Nei treni la notte",
+        "canzone":"Frah Quintale",
+        "img":"https://images.genius.com/9ceaef0c0476ccd8deba930a0f2acb9c.1000x1000x1.jpg"
+    },
+    {
+        "id_song" : "10" ,
+        "nome_artista":"L'ammore 'o vero",
+        "canzone":"Gnut",
+        "img":"https://images.genius.com/9aef85d3b669dfa6eeea97cb78295045.490x490x1.jpg"
+    },
+    {
+        "id_song" : "11" ,
+        "nome_artista":"Zeta Reticoli",
+        "canzone":"Meganoidi",
+        "img":"https://lastfm.freetls.fastly.net/i/u/500x500/bce5a71f654449c287d756f4b47d9752"
+    },
+    {
+        "id_song" : "12" ,
+        "nome_artista":"L'ammore 'o vero",
+        "canzone":"Gnut",
+        "img":"https://lastfm.freetls.fastly.net/i/u/500x500/bce5a71f654449c287d756f4b47d9752"
     }
    
 ]

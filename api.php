@@ -17,6 +17,7 @@ if (isset($_GET['id_song'])){
      //creiamo un array vuoto
      $responseSingleSong = []; 
 
+     
      //4° e per ogni api 
      foreach($dataArrayApi as $key => $singleSong){
         if($key == intval ($S_GET['id_song'])) {

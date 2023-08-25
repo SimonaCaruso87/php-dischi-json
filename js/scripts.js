@@ -7,15 +7,15 @@ const { createApp } = Vue
                 dischi : []
             }
         },
-        //qui facciamo la nostra chiamara api
+        //qui facciamo la nostra chiamata api
         created(){
             // console.log('chiamata api');
             //chiamata a un url php
             axios
                  .get('http://localhost/php-dischi-json/api.php')
-                 .then(res => {
+                 .then(response => {
                     // console.log(res.data)
-                    this.dischi = res.data;
+                    this.dischi = response.data;
                  });
 
         }

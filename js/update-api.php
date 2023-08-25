@@ -1,3 +1,4 @@
+
 <?php
 
 //1°cosa :la funzione file_put_contents ci fa modificare qualsiasi file al suo interno
