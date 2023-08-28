@@ -23,13 +23,13 @@
         <div id="app">        
             <header style="position: sticky; top: 0; z-index: 8;">
                 <div>
-                    <nav class="navbar bg-success"  data-bs-theme="dark">
+                    <nav class="navbar bg-dark"  data-bs-theme="dark">
                         <div class="container-fluid">
                         <a class="navbar-brand">DischiScord ©</a>
                         <h5>Rubiamo canzoni e ve le facciamo ascoltare</h5>
                             <form class="d-flex" role="search">
-                                <input class="form-control me-2 border-success-emphasis" type="search" placeholder="Search" aria-label="Search">
-                                <button class="btn btn-success-emphasis border-white" type="submit">Search</button>                    
+                                <input name="searchName" class="form-control me-2 border-dark-emphasis" type="search" placeholder="Search" aria-label="Search">
+                                <button class="btn btn-dark-emphasis border-white text-dark-emphasis" type="submit">Search</button>                    
                             </form>
                         </div>
                     </nav>
@@ -41,8 +41,8 @@
                     <div class="col">
                         <div class="row m-2">
                             <div  v-for="disco in dischi" class="col-md-2 overflow-y-auto m-2" style=" border: solid 1px black; width: 325px;" >
-                                <div class="m-3 fw-bold text-success fs-4">{{ disco.nome_artista }}</div>
-                                <div class="m-3 text-success"> {{ disco.canzone }}</div>
+                                <div class="m-3 fw-bold text-dark fs-4">{{ disco.nome_artista }}</div>
+                                <div class="m-3 text-dark"> {{ disco.canzone }}</div>
                                 <img class="w-100 mb-2" :src="disco.img" alt="disco.nome_artista"></img>
                             </div>
                         </div>

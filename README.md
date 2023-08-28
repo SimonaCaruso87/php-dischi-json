@@ -87,7 +87,7 @@ else{
 //     ] ;
 
 // header('Content-Type : application/json');
-//json_enchode traduce qualsiasi tipo di dato in formato json
+//json_encode traduce qualsiasi tipo di dato in formato json
 //noi la useremo per trasformare gli array php in oggetto json
 // echo json_encode($dischi);
 
@@ -118,4 +118,6 @@ $apis = json_decode($string, true);
 
     //cosi' lo abbiamo salvato in persistenza
 -->  
+
+
 

@@ -4,6 +4,7 @@ const { createApp } = Vue
     createApp({
         data(){
             return{
+                //qui salviamo i dati che mi tornano da un array
                 dischi : []
             }
         },

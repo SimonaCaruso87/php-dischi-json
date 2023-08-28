@@ -61,15 +61,68 @@
     },
     {
         "id_song" : "11" ,
-        "nome_artista":"Zeta Reticoli",
-        "canzone":"Meganoidi",
-        "img":"https://lastfm.freetls.fastly.net/i/u/500x500/bce5a71f654449c287d756f4b47d9752"
+        "nome_artista":"Ariete",
+        "canzone":"Amianto",
+        "img":"https://images.genius.com/3db49062a13363d6793fc5b8b4a7417b.1000x1000x1.png"
     },
     {
         "id_song" : "12" ,
-        "nome_artista":"L'ammore 'o vero",
-        "canzone":"Gnut",
-        "img":"https://lastfm.freetls.fastly.net/i/u/500x500/bce5a71f654449c287d756f4b47d9752"
+        "nome_artista":"Gaetano",
+        "canzone":"Calcutta",
+        "img":"https://images.genius.com/43eb1592f73523dda24c9870a627e089.1000x1000x1.jpg"
+    },
+    {
+        "id_song" : "13" ,
+        "nome_artista":"E yo Mamma",
+        "canzone":"Coez",
+        "img":"https://i.scdn.co/image/ab67616d0000b27387f01b35a5806d46277a4316"
+    },
+    {
+        "id_song" : "14" ,
+        "nome_artista":"Sorriso",
+        "canzone":"Calcutta",
+        "img":"https://www.mbmusic.it/wp-content/uploads/2019/06/calcutta-sorriso-milano-dateo-1200x1200.jpg"
+    },
+    {
+        "id_song" : "15" ,
+        "nome_artista":"Sui Muri",
+        "canzone":"Psicologi",
+        "img":"https://images.genius.com/3e50a39dfc79c5a3ab134ce8d6f79c1a.1000x1000x1.png"
+    },
+   
+    {
+        "id_song" : "16" ,
+        "nome_artista":"No Man No Cry",
+        "canzone":"Jimmy Sax",
+        "img":"https://musescore.com/static/musescore/scoredata/g/2cd4bd31b5344c0b149aa51d3a46c4c0cc477264/score_0.png@850x1100?no-cache=1584785258&bgclr=ffffff"
+    },
+   
+    {
+        "id_song" : "17" ,
+        "nome_artista":"Eyes Closed",
+        "canzone":"Eed Sheeran",
+        "img":"https://i1.sndcdn.com/artworks-spLYsUqy4Oz4xbEv-yqunuA-t500x500.jpg"
+    },
+   
+    {
+        "id_song" : "18" ,
+        "nome_artista":"Dire Straits",
+        "canzone":"Brothers In Arms",
+        "img":"https://i.scdn.co/image/ab67616d0000b27348cd811e6c34abd3ff00d15f"
+    },
+   
+    {
+        "id_song" : "19" ,
+        "nome_artista":"Jubel",
+        "canzone":"Klingande",
+        "img":"https://i1.sndcdn.com/artworks-4D9esfLbLpNs-0-t500x500.jpg"
+    },
+   
+    {
+        "id_song" : "20" ,
+        "nome_artista":"Please Don't Go",
+        "canzone":"KC and The Sunshine Band",
+        "img":"https://m.media-amazon.com/images/I/51Gx9+BiaaL._UF1000,1000_QL80_.jpg"
     }
    
 ]
